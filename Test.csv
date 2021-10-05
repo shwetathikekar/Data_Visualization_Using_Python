@@ -1,0 +1,200 @@
+air_pollution_index,humidity,temperature,weather_type,weather_description
+73,63,285.15,Rain,moderate rain
+251,63,285.15,Mist,mist
+75,56,285.15,Drizzle,light intensity drizzle
+98,56,284.79,Rain,heavy intensity rain
+283,56,284.79,Mist,mist
+115,49,284.29,Rain,heavy intensity rain
+48,49,284.29,Mist,mist
+133,49,284.29,Drizzle,drizzle
+130,60,283.51,Rain,heavy intensity rain
+93,60,283.51,Mist,mist
+218,60,283.51,Drizzle,light intensity drizzle
+272,75,283.09,Rain,heavy intensity rain
+121,75,283.09,Mist,mist
+77,75,283.09,Drizzle,light intensity drizzle
+231,84,282.55,Rain,moderate rain
+10,84,282.55,Mist,mist
+256,84,282.55,Drizzle,drizzle
+85,84,282.01,Rain,moderate rain
+89,84,282.01,Drizzle,heavy intensity drizzle
+165,67,281.77,Rain,moderate rain
+297,67,281.77,Drizzle,drizzle
+247,67,281.83,Rain,moderate rain
+28,63,281.83,Drizzle,light intensity drizzle
+102,51,281.83,Mist,mist
+102,51,282.27,Rain,light rain
+89,51,282.27,Mist,mist
+269,47,282.27,Drizzle,light intensity drizzle
+122,47,282.46,Rain,light rain
+124,47,282.46,Drizzle,light intensity drizzle
+181,45,282.95,Rain,light rain
+71,45,283.08,Rain,light rain
+138,45,283.61,Rain,light rain
+125,57,284.09,Clouds,overcast clouds
+117,57,284.62,Clouds,overcast clouds
+227,57,284.65,Clouds,overcast clouds
+213,65,284.88,Clouds,overcast clouds
+154,65,284.84,Clouds,overcast clouds
+46,65,284.75,Clouds,overcast clouds
+45,68,285.01,Clouds,overcast clouds
+111,68,283.9,Clear,sky is clear
+140,68,281.96,Clouds,scattered clouds
+206,73,281.09,Clear,sky is clear
+288,73,280.49,Clear,sky is clear
+56,73,280.09,Mist,mist
+223,64,279.62,Clear,sky is clear
+43,64,279.75,Clear,sky is clear
+227,64,279.88,Clear,sky is clear
+168,61,279.82,Clear,sky is clear
+44,61,279.35,Clear,sky is clear
+233,61,279.02,Clear,sky is clear
+126,56,279.48,Clouds,overcast clouds
+120,56,280.15,Clouds,overcast clouds
+158,56,280.95,Clouds,overcast clouds
+246,53,281.41,Clouds,overcast clouds
+58,53,282.36,Clear,sky is clear
+56,53,283.09,Clear,sky is clear
+110,67,284.09,Clear,sky is clear
+275,67,284.62,Clear,sky is clear
+95,67,285.22,Clouds,scattered clouds
+246,82,285.51,Clear,sky is clear
+45,90,285.62,Clouds,broken clouds
+205,90,285.42,Clouds,overcast clouds
+246,91,284.78,Clouds,overcast clouds
+83,82,284.62,Clouds,overcast clouds
+244,25,284.44,Clouds,overcast clouds
+123,84,283.75,Clouds,overcast clouds
+240,90,283.42,Clouds,overcast clouds
+146,90,283.09,Clouds,overcast clouds
+22,79,282.69,Clouds,overcast clouds
+194,79,282.42,Clouds,overcast clouds
+91,79,282.15,Clouds,broken clouds
+174,70,281.84,Clouds,overcast clouds
+20,68,281.55,Drizzle,light intensity drizzle
+15,68,281.44,Clouds,overcast clouds
+184,62,280.75,Rain,moderate rain
+294,62,280.09,Rain,moderate rain
+112,62,280.09,Drizzle,light intensity drizzle
+152,63,279.89,Rain,moderate rain
+193,63,279.89,Drizzle,light intensity drizzle
+168,63,279.29,Rain,heavy intensity rain
+284,69,279.29,Mist,mist
+252,69,279.29,Drizzle,drizzle
+155,69,279.15,Rain,heavy intensity rain
+195,72,279.15,Mist,mist
+207,72,279.02,Rain,moderate rain
+210,72,279.02,Mist,mist
+39,76,279.42,Rain,moderate rain
+232,76,279.42,Mist,mist
+172,76,279.88,Rain,moderate rain
+26,89,279.88,Mist,mist
+243,89,280.22,Rain,moderate rain
+234,89,280.22,Mist,mist
+263,100,280.69,Rain,moderate rain
+298,100,280.69,Mist,mist
+251,90,281.02,Drizzle,drizzle
+253,90,281.02,Rain,moderate rain
+276,90,281.02,Mist,mist
+197,89,281.28,Rain,moderate rain
+129,89,281.28,Mist,mist
+269,89,281.28,Drizzle,drizzle
+200,99,281.62,Rain,moderate rain
+252,99,281.62,Mist,mist
+14,99,281.62,Drizzle,drizzle
+201,98,281.62,Drizzle,drizzle
+214,98,281.62,Mist,mist
+141,98,281.62,Rain,light rain
+123,98,281.68,Drizzle,drizzle
+35,99,281.68,Mist,mist
+163,99,281.68,Rain,heavy intensity rain
+28,82,281.95,Drizzle,heavy intensity drizzle
+46,100,281.95,Mist,mist
+148,100,281.95,Rain,light rain
+75,98,282.22,Drizzle,drizzle
+40,98,282.22,Rain,light rain
+212,98,282.22,Mist,mist
+53,97,282.62,Drizzle,heavy intensity drizzle
+281,97,282.62,Rain,light rain
+11,97,282.82,Mist,mist
+68,92,282.82,Drizzle,drizzle
+255,92,282.82,Rain,moderate rain
+185,92,282.89,Mist,mist
+173,83,282.89,Drizzle,drizzle
+273,83,283.09,Mist,mist
+45,83,283.09,Drizzle,drizzle
+116,75,283.22,Rain,light rain
+34,75,283.22,Mist,mist
+245,75,283.22,Drizzle,drizzle
+269,75,282.95,Rain,light rain
+118,89,282.95,Mist,mist
+180,89,282.95,Drizzle,heavy intensity drizzle
+164,89,282.62,Rain,light rain
+118,93,282.62,Mist,mist
+129,93,282.62,Drizzle,heavy intensity drizzle
+226,93,282.49,Mist,mist
+154,92,282.49,Drizzle,drizzle
+121,92,282.42,Mist,mist
+126,91,282.42,Drizzle,heavy intensity drizzle
+33,91,282.75,Mist,mist
+272,91,282.75,Rain,moderate rain
+126,88,282.75,Drizzle,heavy intensity drizzle
+72,88,283.01,Mist,mist
+261,88,283.01,Drizzle,light intensity drizzle
+239,90,283.01,Rain,light rain
+159,90,283.15,Drizzle,light intensity drizzle
+115,90,283.15,Mist,mist
+190,80,283.15,Rain,moderate rain
+277,80,283.15,Rain,heavy intensity rain
+113,59,283.15,Mist,mist
+287,75,283.15,Drizzle,light intensity drizzle
+176,75,282.75,Rain,light rain
+56,75,282.75,Mist,mist
+53,75,282.65,Mist,mist
+25,79,282.46,Drizzle,light intensity drizzle
+43,79,282.46,Rain,light rain
+217,79,281.94,Haze,haze
+64,87,281.68,Rain,light rain
+262,87,281.68,Mist,mist
+83,86,281.4,Drizzle,drizzle
+33,85,281.4,Mist,mist
+120,86,281.21,Rain,light rain
+251,88,281.21,Mist,mist
+249,88,281.21,Drizzle,light intensity drizzle
+139,88,281.03,Drizzle,drizzle
+168,88,281.03,Mist,mist
+72,88,280.75,Drizzle,drizzle
+56,88,280.75,Rain,light rain
+264,75,280.72,Drizzle,drizzle
+28,75,280.86,Drizzle,drizzle
+65,75,280.75,Drizzle,light intensity drizzle
+20,68,280.75,Rain,light rain
+232,68,280.62,Drizzle,light intensity drizzle
+83,68,280.48,Drizzle,drizzle
+143,64,280.09,Clouds,overcast clouds
+168,64,280.09,Clear,sky is clear
+252,64,280.02,Clear,sky is clear
+108,64,280.22,Clear,sky is clear
+259,79,281.86,Clouds,scattered clouds
+38,79,283.88,Clouds,scattered clouds
+286,79,285.48,Clouds,scattered clouds
+178,84,286.95,Clouds,scattered clouds
+206,84,288.08,Clouds,scattered clouds
+97,84,288.89,Clouds,scattered clouds
+293,85,289.69,Clouds,broken clouds
+171,85,290.15,Clear,sky is clear
+65,85,290.88,Clouds,scattered clouds
+192,84,290.95,Clouds,scattered clouds
+223,84,290.69,Clouds,scattered clouds
+38,84,290.15,Clouds,broken clouds
+12,75,289.09,Clouds,scattered clouds
+276,75,287.49,Clouds,scattered clouds
+263,69,286.36,Rain,light rain
+185,69,285.43,Rain,light rain
+114,69,285.43,Drizzle,drizzle
+163,61,284.76,Rain,moderate rain
+202,61,283.6,Rain,light rain
+65,61,283.16,Rain,moderate rain
+293,60,283.16,Drizzle,drizzle
+160,60,282.78,Rain,moderate rain
+198,60,282.91,Drizzle,light intensity drizzle
